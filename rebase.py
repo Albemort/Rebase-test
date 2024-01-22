@@ -3,6 +3,7 @@ def main():
     print("Toinen rivi")
     print("Kolmas rivi")
     print("Neljäs rivi")
+    print("Uusi rivi")
     
 
 if __name__=="__main__":
